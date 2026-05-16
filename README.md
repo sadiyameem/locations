@@ -4,7 +4,7 @@
 - This is a web-based project of different areas of my country (Bangladesh). It uses an expanding layout where each image response when clicked.
 
 # Features
-- Interactive panels that expands when clicked on
+- Interactive images that expands when clicked on
 - Displays the titles and description of each image
 
 # Tools
